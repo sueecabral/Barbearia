@@ -11,7 +11,16 @@
 
 <p align="center">
 
-<img alt="projeto barbearia" src="./img/barbearia.png" width="100">
+<img alt="projeto barbearia" src="Barbearia/img/barbearia.png" width="100%">
+</br>
+<img alt="projeto barbearia" src="Barbearia/img/barbearia02.png" width="100%">
+</br>
+<img alt="projeto barbearia" src="Barbearia/img/barbearia03.png" width="100%">
+</br>
+<img alt="projeto barbearia" src="Barbearia/img/barbearia04.png" width="100%">
+<br>
+<img alt="projeto barbearia" src="Barbearia/img/barbearia05.png" width="100%">
+
 
 
 </p>
